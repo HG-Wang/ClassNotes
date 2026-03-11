@@ -11,9 +11,13 @@ The query processor is important because it helps the database system to simplif
 
 ## Transaction Management
 
+/
+
 -   原子性，一致性，持久性
     
 
 A **transaction** is a collection of operations that performs a single logical function in a database application.
 
 事务是数据库应用中执行单一逻辑功能的操作集合。
+
+## Storage Manager
