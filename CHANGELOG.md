@@ -6,13 +6,25 @@
 
 ---
 
+## [2026-03-11]
+
+### Added
+-   数据库/Chapter 1 Introduction.md - 数据库课程第一章完整笔记
+
+### Changed
+-   数据库/Chapter 1 Introduction.md - 补充查询处理器、存储管理器、事务管理、应用架构、用户分类等内容
+
+### Deleted
+-   无
+    
+
+---
+
 ## [Unreleased]
 
 ### Added
 
 -   初始仓库创建
-    
--   数据库课程笔记：Chapter 1 Introduction
     
 
 ### Changed
