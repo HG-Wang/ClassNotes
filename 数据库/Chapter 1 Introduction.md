@@ -90,3 +90,9 @@ Database Administrator
 这部分就快速过吧，不是很重要
 
 纸带 → 磁带 → 硬盘 → 关系型数据库 → 半结构化数据 → 图数据库
+
+NoSQL : eventual consistency 最终一致性
+
+SaaS
+
+# Summary
