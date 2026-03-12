@@ -11,7 +11,7 @@
 | 文件名 | 创建时间 | 最后更新 | 状态  |
 | --- | --- | --- | --- |
 | [Chapter 1 Introduction](%E6%95%B0%E6%8D%AE%E5%BA%93/Chapter%201%20Introduction.md) | 2026-03-12 | 2026-03-12 | ✅ 已整理 |
-| [Part One _ Relational Language](%E6%95%B0%E6%8D%AE%E5%BA%93/Part%20One%20_%20Relational%20Language.md) | 2026-03-12 | 2026-03-12 | ✅ 已整理 |
+| [Part One \_ Relational Language](%E6%95%B0%E6%8D%AE%E5%BA%93/Part%20One%20_%20Relational%20Language.md) | 2026-03-12 | 2026-03-12 | ✅ 已整理 |
 
 ---
 
@@ -21,7 +21,7 @@
     
 -   **分类数**: 1
     
--   **最后更新**: 2026-03-12 (新增 Part One _ Relational Language)
+-   **最后更新**: 2026-03-12 (新增 Part One \_ Relational Language)
     
 
 ---
