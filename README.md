@@ -13,15 +13,21 @@
 | [Chapter 1 Introduction](%E6%95%B0%E6%8D%AE%E5%BA%93/Chapter%201%20Introduction.md) | 2026-03-12 | 2026-03-12 | ✅ 已整理 |
 | [Part One \_ Relational Language](%E6%95%B0%E6%8D%AE%E5%BA%93/Part%20One%20_%20Relational%20Language.md) | 2026-03-12 | 2026-03-12 | ✅ 已整理 |
 
+### 📐 子模优化 (Submodular Optimization)
+
+| 文件名 | 创建时间 | 最后更新 | 状态  |
+| --- | --- | --- | --- |
+| [Submodular Function Maximization](%E5%AD%90%E6%A8%A1%E4%BC%98%E5%8C%96/Submodular%20Function%20Maximization.md) | 2026-03-13 | 2026-03-13 | ✅ 已整理 |
+
 ---
 
 ## 📊 统计
 
--   **总笔记数**: 2
+-   **总笔记数**: 3
     
--   **分类数**: 1
+-   **分类数**: 2
     
--   **最后更新**: 2026-03-12 (新增 Part One \_ Relational Language)
+-   **最后更新**: 2026-03-13 (新增 子模优化 Function Maximization)
     
 
 ---
@@ -60,4 +66,4 @@ Notes/
 
 ---
 
-*最后生成：2026-03-12*
+*最后生成：2026-03-13*
