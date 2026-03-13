@@ -94,5 +94,3 @@ Database Administrator
 NoSQL : eventual consistency 最终一致性
 
 SaaS
-
-# Summary
