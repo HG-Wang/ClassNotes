@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94d27900498ead49",
+            "id": "341f903ae4817083",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/Part One _ Relational Language.md",
+                "file": "智能系统优化设计/前三周笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part One _ Relational Language"
+              "title": "前三周笔记"
+            }
+          },
+          {
+            "id": "f67e8abda2264e4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "智能系统优化设计/第二周作业.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第二周作业"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.50694274902344
+    "width": 230.50694274902344,
+    "collapsed": true
   },
   "right": {
     "id": "f952101eb84350d5",
@@ -156,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/Part One _ Relational Language.md",
+                "file": "数据库/作业/week2 Answer Sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Part One _ Relational Language 的大纲"
+              "title": "week2 Answer Sheet 的大纲"
             }
           },
           {
@@ -180,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,18 +207,28 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94d27900498ead49",
+  "active": "f67e8abda2264e4f",
   "lastOpenFiles": [
-    "子模优化/Submodular Function Maximization.md",
     "数据库/Part One _ Relational Language.md",
-    "未命名.base",
+    "智能系统优化设计/前三周笔记.md",
+    "智能系统优化设计/第二周作业.md",
+    "Pasted image 20260315204215.png",
+    "Pasted image 20260315203817.png",
+    "Pasted image 20260315201702.png",
+    "数据库/作业/week2 Answer Sheet.md",
+    "智能系统优化设计",
+    "数据库/作业/week02.md",
+    "Pasted image 20260315121927.png",
+    "Student_Student 1.png",
+    "Student_Student.png",
     "数据库/Chapter 1 Introduction.md",
+    "数据库/作业/week1.md",
+    "数据库/作业",
+    "子模优化/Submodular Function Maximization.md",
+    "未命名.base",
     "README.md"
   ]
 }

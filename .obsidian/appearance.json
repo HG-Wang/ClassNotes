@@ -1,3 +1,9 @@
 {
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "font"
+  ],
+  "baseFontSize": 19,
+  "theme": "moonstone"
 }
